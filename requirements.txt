@@ -1,0 +1,9 @@
+notebook
+pandas
+plotly
+matplotlib
+seaborn
+numpy
+scikit-learn
+opendatasets
+pyarrow
